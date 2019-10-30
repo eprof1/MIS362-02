@@ -1,5 +1,8 @@
 # Python 3 reference:  https://runestone.academy/runestone/static/thinkcspy/index.html
 
+# import random module
+import random
+
 # create a numeric variable to set the upper range of permissible values
 # ref: https://runestone.academy/runestone/static/thinkcspy/SimplePythonData/Variables.html
 sides=6   # statement here
